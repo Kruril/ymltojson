@@ -1,0 +1,24 @@
+{
+  "name": "ymltojson",
+  "version": "1.0.0",
+  "description": "convert yaml file to json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo no test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kruril/ymltojson.git"
+  },
+  "keywords": [
+    "yml",
+    "yaml",
+    "json"
+  ],
+  "author": "0sl0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kruril/ymltojson/issues"
+  },
+  "homepage": "https://github.com/Kruril/ymltojson#readme"
+}
